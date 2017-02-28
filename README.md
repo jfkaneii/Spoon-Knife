@@ -15,3 +15,6 @@ New text in fork test1
 another change in fork test1 after first deletion.
 
 branch228-1
+
+branch228-2
+
